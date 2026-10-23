@@ -1,0 +1,44 @@
+{
+  "registered_date": "2026-10-20",
+  "timezone": "Asia/Hong_Kong",
+  "provenance": "User-supplied screenshots; exact original copies; only character drawing style is in scope.",
+  "generation_validation": "not-yet-tested",
+  "images": [
+    {
+      "file": "01-character-medium.png",
+      "source_filename": "屏幕截图 2026-10-20 031820.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "57936924087a49d09587dcb1ad2d7054f76342b45716b0bc96de83fedacef1e1",
+      "scope": "character-drawing-style-only",
+      "pixels_modified": false
+    },
+    {
+      "file": "02-character-expression.png",
+      "source_filename": "屏幕截图 2026-10-20 031732.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "8dbfbc61feb0348fb25808573ed189d3d05dfd6857b3a6ea6afc7d67f48c1f86",
+      "scope": "character-drawing-style-only",
+      "pixels_modified": false
+    },
+    {
+      "file": "03-character-closeup.png",
+      "source_filename": "屏幕截图 2026-10-20 024908.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f64d11c867e117bd60cbe1e5e1bf646d0cc7c724de267ee29efd98bcca045f86",
+      "scope": "character-drawing-style-only",
+      "pixels_modified": false
+    },
+    {
+      "file": "04-two-characters.png",
+      "source_filename": "屏幕截图 2026-10-20 024846.png",
+      "width": 3840,
+      "height": 2160,
+      "sha256": "6e52f3ebffacd249b2a9e1757f9127c7bb6ace71557f7ff92432e56de4864d1a",
+      "scope": "character-drawing-style-only",
+      "pixels_modified": false
+    }
+  ]
+}

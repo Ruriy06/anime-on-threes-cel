@@ -1,0 +1,4 @@
+interface:
+  display_name: "日式动漫一拍三 赛璐璐"
+  short_description: "仅迁移四张参考图的人物清线稿、发束、五官与赛璐璐分色画法"
+  default_prompt: "使用 $anime-on-threes-cel，按日式动漫一拍三 赛璐璐处理人物，保留本次角色设计，背景按本次要求。"
